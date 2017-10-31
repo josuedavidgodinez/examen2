@@ -11,81 +11,46 @@ Problema2
 ----------------------
 +Array List: implementa una lista con arreglos que tiene la funcion de resize para no tener limite de tamnio.
 + Demostracion Lista:tiene un metodo que genera un demo de array list con ciertos datos.
+
+Codigo demostracion clase
+![](https://image.ibb.co/jVAV6R/eclipse_workspace_examen2_master_examen2_mastersrcmainjavagteduurlexamen2problema2main_java_Eclipse.jpg)
+
+Demostracion
+![](https://preview.ibb.co/cAaK0m/eclipse_workspace_Eclipse.jpg)
+
 ----------------------
 Problema3
 ---------------------
 + LinkedPositionalList: lista referenciado por posiciones implementando un metodo swap que intercambia dos posiciones.
+
+Codigo demostracion clase
+![](https://image.ibb.co/cOUe0m/swap.jpg)
+
+Demostracion
+![](https://image.ibb.co/gFtuY6/demostracionswap.jpg)
 ----------------------
 Problema4
 ---------------------
 + LinkedPositionalList: lista referenciado por posiciones implementando un metodo positionatindex que devuelve una posicion segun un indice.
+
+Codigo demostracion clase
+![](https://image.ibb.co/e8ee0m/positionatindex.jpg)
+
+Demostracion
+![](https://image.ibb.co/jXUORR/positionatindexdemostracion.jpg)
 ----------------------
 Problema5
 ---------------------
 + DynamicStack: Pila dinamica que no tiene limite de crecimiento implementando los metodod:push,size,pop,top y isempty.
 
-![](https://image.ibb.co/jkQjWG/Form1.png)
+Codigo demostracion clase
+![](https://image.ibb.co/iXJHmR/stack.jpg)
 
----------------------------------
----------------------------------
-## Datos
-![](https://image.ibb.co/dcHnkb/Datos.png)
+Demostracion
+![](https://image.ibb.co/hENMD6/stackdemostracion.jpg)
 
-### Usuarios
-![](https://image.ibb.co/nQcWBG/Usuarios.png)
-#### Grupo Usuario
-![](https://image.ibb.co/mfSWBG/SGrupo_Usuarios.png)
-##### Crear
-![](https://image.ibb.co/cB3hJw/CGrupo_Usuario.png)
-##### Eliminar
-![](https://image.ibb.co/nBRrBG/Eliminar_Grupo.png)
-
-
-#### Usuario Individual
-![](https://image.ibb.co/iHwPWG/SUsuarios.png)
-##### Crear
-![](https://image.ibb.co/mUvwdw/CUsuario.png)
-##### Eliminar
-![](https://image.ibb.co/nh7bdw/EUsuario.png)
-##### Modificar
-![](https://image.ibb.co/eqytQb/MUsuario.png)
----------------------------------
-### Leyes
-![](https://image.ibb.co/gLeNJw/SLeyes.png)
-#### Crear
-![](https://image.ibb.co/jxqwdw/CLey.png)
-#### Eliminar
-![](https://image.ibb.co/jqytQb/ELey.png)
-#### Modificar
-![](https://image.ibb.co/fq4NJw/MLey.png)
----------------------------------
-### Reglamentos
-![](https://image.ibb.co/bSD4WG/SReglamentos.png)
-#### Crear
-![](https://image.ibb.co/n7iSkb/CReglamento.png)
-#### Eliminar
-![](https://image.ibb.co/np3Gdw/EReglamento.png)
-#### Modificar
-![](https://image.ibb.co/nnWf5b/MReglamento.png)
----------------------------------
----------------------------------
-## Prestamo/Devolución
-![](https://image.ibb.co/cv0jWG/PrestDev.png)
-### Prestamo indivual
-![](https://image.ibb.co/gT405b/IPrestamo.png)
-### Prestamo por lote
-![](https://image.ibb.co/cOhnkb/LPrestamo.png)
-### Devolución
-![](https://image.ibb.co/bMtSkb/Devolucion.png)
----------------------------------
----------------------------------
-## Informes
-![](https://image.ibb.co/hqSbdw/Informe.png)
-
-
-
-
-
+----------------------
+----------------------
 
 
 
