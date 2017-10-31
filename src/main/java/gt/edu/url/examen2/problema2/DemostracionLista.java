@@ -3,6 +3,9 @@ package gt.edu.url.examen2.problema2;
 public class DemostracionLista implements DemoList {
 
 	@Override
+	/**
+	 * genera un demo de array list con cierr=tos valores prueba
+	 */
 	public List<Integer> crearDemoLista() {
 
 		ArrayList<Integer> lista=new  ArrayList<Integer>();
