@@ -249,7 +249,7 @@ public class LinkedPositionalList<E> implements PositionalList<E> {
 
 	@Override
 	/**
-	 * intercambia dos posiciones p y q
+	 * obtiene la posicion en cierto indice
 	 */
 	public Position<E> positionAtIndex(int i)throws IndexOutOfBoundsException  {
 		
